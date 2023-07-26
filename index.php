@@ -18,7 +18,7 @@
     <title>Document</title>
 </head>
 <body>
-    <table border="1" align="center">
+    <table border="2" align="center">
     <tr>
         <th bgcolor="green">firstname</th>
         <th  bgcolor="green">lastname</th>
